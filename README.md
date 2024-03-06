@@ -1,1 +1,1 @@
-# Group5
+# The Game Shop e-commerce webpage
